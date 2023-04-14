@@ -1,0 +1,58 @@
+@font-face {
+    font-family: dbz;
+    src: url(fonte/Saiyan-Sans.ttf);
+}
+
+body{
+    
+    background-image: url(imagens/wallpaperflare.com_wallpaper\ \(2\).jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: #000;
+    text-shadow: 5px 6px 3px #000;
+    font-family: 'dbz';
+    text-shadow: 5px 6px 3px #000;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+}
+h2{
+    text-align: left;
+    font-size: 37px;
+    color: #fff;
+    margin-right: 70%;
+    margin-left: 3%;
+}
+h3{
+    text-align: left;
+    font-size: 34px;
+    color: #fff;
+    margin-right: 3%;
+    margin-left: 70%;
+}
+.criador{
+display: inline-block;
+margin-left: 50%;
+margin-right: 40%;
+position: absolute;
+margin-top: 5%;
+
+}
+.capa{
+position: absolute;
+margin-left: 3%;
+margin-right: 70%;
+margin-top: 46%;
+}
+
+.criadortexto{
+margin-left: 70%;
+margin-right: 40%;
+margin-top: 3%;
+-webkit-text-stroke: 1px rgb(255, 255, 255);
+font-size: 50px;
+color: #000;
+}
