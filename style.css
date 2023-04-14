@@ -21,19 +21,18 @@ h1{
 }
 h2{
     text-align: left;
-    font-size: 37px;
+    font-size: 40px;
     color: #fff;
-    margin-right: 70%;
-    margin-left: 3%;
+    margin-right: 60%;
+    
   
     
 }
 h3{
     text-align: left;
-    font-size: 34px;
+    font-size: 37px;
     color: #fff;
-    margin-right: 3%;
-    margin-left: 70%;
+    margin-left: 60%;
 }
 .criador{
 display: inline-block;
@@ -47,17 +46,10 @@ margin-top: 10%;
 position: absolute;
 margin-left: 10%;
 margin-right: 60%;
-margin-top: 50%;
+margin-top: 90%;
 }
 
-.criadortexto{
-margin-left: 70%;
-margin-right: 40%;
-margin-top: 2%;
--webkit-text-stroke: 1px rgb(255, 255, 255);
-font-size: 50px;
-color: #000;
-}
+
 .goku{
  position: absolute;
  margin-top: 1%;
@@ -66,7 +58,7 @@ color: #000;
 
 .vegeta{
 position: absolute;
-margin-left: 30%;
+margin-left: 20%;
 margin-top: 2%;
 }
 
@@ -80,3 +72,113 @@ margin-top: 20%;
 margin-left: 40%;
 }
 
+.piccolotext{
+    margin-top: 24%;
+}
+
+.freeza{
+    margin-left: 5%;
+    margin-top: 10%;
+    position: absolute;
+}
+
+.textfreeza{
+    margin-top: 20%;
+    
+}
+.bulma{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+.bulmat{
+margin-top: 25%;
+}
+.mt{
+    margin-top: 30%;
+}
+.MajinBoo{
+ margin-top: 20%;
+ position: absolute;
+}
+.gohan{
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 50%;
+}
+
+.gt{
+    margin-top: 35%;
+}
+
+.trunks{
+    position: absolute;
+      margin-top: 20%;
+}
+.tt{
+    margin-top: 40%;
+}
+.chi{
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 40%;
+}
+.ct{
+    margin-top: 40%;
+}
+
+.cell{
+    margin-top: 40%;
+    position: absolute;
+}
+.cellt{
+    margin-top: 45%;
+}
+.Android18{
+position: absolute;
+margin-top: 30%;
+margin-left: 40%;
+}
+.ant{
+margin-top: 30%;
+}
+
+.kuririn{
+position: absolute;
+margin-top: 20%;
+}
+
+.kt{
+    margin-top: 30%;
+}
+.goten{
+    position: absolute;
+    left: 40%;
+    margin-top: 20%;
+}
+.got{
+    margin-top: 40%;
+}
+
+.sheinlong{
+    margin-top: 20%;
+    position: absolute;
+}
+.sheint{
+    margin-top: 30%;
+}
+
+
+.kame{
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 40%;
+}
+.kamet{
+    margin-top: 30%;
+}
+
+p{
+    color: #fff;
+    text-align: center;
+}
